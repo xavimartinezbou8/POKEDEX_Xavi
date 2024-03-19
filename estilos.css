@@ -1,0 +1,152 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: "Luckiest Guy"
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    height: 100vh; 
+}
+
+.titulo {
+    font-family: "Madimi One", sans-serif;
+        font-weight: 2000;
+        font-style: normal;
+        text-align: center;
+        color: yellow; 
+        font-size: ;
+         text-shadow: -2px -2px 0 #00ff37,  
+                  2px -2px 0 #00ff37,
+                 -2px 2px 0 #00ff37,
+                  2px 2px 0 #00ff37; 
+}
+.titulo2 {
+    font-family: "Madimi One", cursive;
+    font-size: 40px; 
+    color: rgb(255, 0, 111); 
+    text-shadow: -2px -2px 0 #ff0000,  
+                  2px -2px 0 #ff0000,
+                 -2px 2px 0 #ff0000,
+                  2px 2px 0 #ff0000; /
+}
+.luckiest-guy-regular {
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+.pokedex{
+    position: absolute;
+    top: 20%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 20%;
+    margin-right: 15%;
+    margin-top: 15%;
+}
+.estilos-menus{
+    font-family: "Luckiest Guy", cursive;
+    font-size: 30px; 
+}
+ 
+.textosparagrafos {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 40%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.texto1 {
+    width: 700px; 
+    height: auto; 
+    position: absolute;
+    top: 60%;
+    left: -5%;
+    transform: translateY(-50%);
+}
+
+.charizard {
+    width: 700px; 
+    height: auto; 
+    position: absolute;
+    top: 55%;
+    left: -5%;
+    transform: translateY(-50%);
+}
+.texto2 {
+    width: 500px; 
+    height: auto; 
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    transform: translateY(-50%);
+}
+.imagenes {
+    height: 1000%;
+    width: 1000%;
+}
+.derecho {
+    margin-left: 20%;
+}
+
+.sigma {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    font-style: normal;
+    text-align: right;
+  }
+
+.sigma2 {
+    font-family: "Madimi One", sans-serif;
+    font-size: 30px; 
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 70%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+}
+
+  .sigma3 {
+    font-family: "Madimi One", sans-serif;
+    font-size: 30px; 
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 90%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+  }
+
+.sigma4 {
+    font-family: "Madimi One", sans-serif;
+    font-size: 30px; 
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 80%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+}
